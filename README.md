@@ -1,1 +1,2 @@
-echo "show filename"
+echo "show"
+name to be displayed
